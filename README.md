@@ -104,7 +104,7 @@ This structured preparation ensures the dataset is reliable and suitable for gen
 
 ## Interactive Dashboard
 
-![Dashboard Overview](./images/Full_Dashboard.png)
+![Dashboard Overview](./images/dashboard_overview.png)
 
 An interactive dashboard was developed in Power BI to provide a comprehensive view of business performance and enable dynamic analysis across multiple dimensions.
 
