@@ -322,33 +322,6 @@ The dashboard supports interactive exploration:
 - Combine filters to examine specific business scenarios  
 
 
-## Project Structure
-
-project-root/
-│
-├── data/
-│   └── superstore_data.csv
-│
-├── sql/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_feature_engineering.sql
-│   ├── 03_kpi_views.sql
-│   └── 04_validation_checks.sql
-│
-├── dashboard/
-│   └── profitability_dashboard.pbix
-│
-├── images/
-│   ├── dashboard_overview.png
-│   ├── revenue_profit_trend.png
-│   ├── weak_category_profit.png
-│   ├── weak_region_profit.png
-│   ├── sales_vs_profit.png
-│   └── discount_vs_profit.png
-│
-└── README.md
-
-
 ## Conclusion
 
 This project demonstrates how data can be transformed into actionable business insights through structured analysis and effective visualization.
